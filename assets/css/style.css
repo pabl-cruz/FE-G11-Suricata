@@ -1,0 +1,55 @@
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.magenta-top{
+    background-color: #E83e8c;
+}
+
+.navbar-toggler-icon, .nav-link, footer{
+    color: #ffffff!important;
+}
+
+
+
+h1,h2,h3,h4,h5{
+    font-weight: 700;
+}
+
+h1{
+    color: #707070;
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.container-fluid{
+    width: 80%;
+}
+
+.list-group-item{
+    font-size: 11px;
+}
+
+
+.card-link{
+    text-decoration: none;
+    font-size: 11px;
+    color: #1c7cd5;
+}
+
+#icons-section{
+    background-color: #17a2b8;
+    font-size: 48px;
+}
+
+#icons-section .row{
+    align-content: center;
+}
