@@ -4,7 +4,7 @@ Repositorio que contiene la maqueta de página web Suricata. Realizado para el b
 
 ## Cambios al código
 
-- Actualizado el código para ordenar el margen de los contenidos del menu del <nav> en vista de escritorio
+- Actualizado el código para ordenar el margen de los contenidos del menu del nav en vista de escritorio
 
     - Se añade clase ms-auto
 
