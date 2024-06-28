@@ -13,7 +13,7 @@ Repositorio que contiene la maqueta de página web Suricata. Realizado para el b
     ```
 
 ## Estructura de archivos
-
+```
 ├───assets/
 │   ├───css/
 │   │   ├───bootstrap-grid.css
@@ -73,3 +73,4 @@ Repositorio que contiene la maqueta de página web Suricata. Realizado para el b
 │       └───bootstrap.min.js.map
 ├───index.html
 └───readme.md
+```
