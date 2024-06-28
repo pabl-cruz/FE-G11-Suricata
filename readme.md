@@ -2,6 +2,15 @@
 
 Repositorio que contiene la maqueta de página web Suricata. Realizado para el bootcamp de Front-End de Desafío Latam. 
 
+## Lenguajes, librerías y frameworks utilizados
+
+**Se usaron:**
+
+- HTML5
+- CSS 3
+- Bootstrap 5.3.3 
+- Google Fonts
+
 ## Cambios al código
 
 - Actualizado el código para ordenar el margen de los contenidos del menu del nav en vista de escritorio
